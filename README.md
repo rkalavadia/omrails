@@ -1,3 +1,10 @@
+#ONE MONTH RAILS
+
+This is the sample application for
+[*one month rails: teach yourself to code*](http://onemonthrails.com)
+
+by [Matten Griffel]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
