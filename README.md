@@ -3,7 +3,7 @@
 This is the sample application for
 [*one month rails: teach yourself to code*](http://onemonthrails.com)
 
-by [Matten Griffel]
+by [Matten Griffel](http://facebook.com)
 
 == README
 
